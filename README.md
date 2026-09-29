@@ -5,7 +5,7 @@ Project Name:
 
 Group members:
 1. Ramith Wijesinghe
-2. X
-3. X
+2. Brian Liu
+3. Zhuoxin Xia
 
-Dataset Link
+Dataset Link:
