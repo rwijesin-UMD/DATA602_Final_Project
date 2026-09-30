@@ -10,4 +10,4 @@ Group members:
 2. Brian Liu
 3. Zhuoxin Xia
 
-Dataset Link:
+Dataset Link: https://huggingface.co/datasets/FronkonGames/steam-games-dataset
