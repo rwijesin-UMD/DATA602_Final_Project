@@ -3,7 +3,7 @@ This is the Repo for the DATA602 Final Project
 
 Project Name: Steam Game Popularity
 
-Topic: Disov
+Topic: This project examines how price, reviews, genre, and game company are associated with the popularity of games on Steam.
 
 Group members:
 1. Ramith Wijesinghe
