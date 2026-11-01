@@ -11,3 +11,7 @@ Group members:
 3. Zhuoxin Xia
 
 Dataset Link: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download-directory
+
+Project Doc: https://docs.google.com/document/d/1h-lzlYVZnHloTPXyW572JcMBf7CIMB8Kkxdu3lwLLiY/edit?usp=sharing
+
+Project Presentation: https://docs.google.com/presentation/d/1Cdvks2eloD1gpgjhpbcGOmu7igMnnWaCliyLKDPTSQ8/edit?usp=sharing
